@@ -42,7 +42,7 @@ language: "en" # message language: en | ko
 project_paths: # Project folder per type (path relative to the repo root)
   node: "." # package.json
 metadata:
-  last_updated: "2026-10-16"
+  last_updated: "2026-10-16 05:07:49"
   last_updated_by: "Cassiiopeia"
   default_branch: "main"
   integration_date: "2026-10-16"
@@ -58,4 +58,4 @@ metadata:
     options:
       semver_auto: true
       copilot_ai: false
-      release_automerge: true
+      release_automerge: false
