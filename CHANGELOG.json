@@ -1,13 +1,37 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-16T05:02:31Z",
-    "currentVersion": "0.1.0",
+    "lastUpdated": "2026-10-16T05:08:21Z",
+    "currentVersion": "0.2.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 1
+    "totalReleases": 2
   },
   "releases": [
+    {
+      "version": "0.2.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": 2,
+      "raw_summary": "### ✨ Features\n- 수동 머지 릴리스 확인\n\n### 🔧 Changes\n- release_automerge 끄기",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "수동 머지 릴리스 확인"
+          ]
+        },
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "release_automerge 끄기"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.1.0",
       "project_types": [
