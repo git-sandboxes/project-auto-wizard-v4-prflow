@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-16T04:37:04Z",
+    "lastUpdated": "2026-10-16T05:02:31Z",
     "currentVersion": "0.1.0",
     "projectTypes": [
       "node"
@@ -15,12 +15,18 @@
       ],
       "date": "2026-10-16",
       "pr_number": 1,
-      "raw_summary": "### ✨ Features\n- 인사 출력 추가",
+      "raw_summary": "### ✨ Features\n- 인사 출력 추가\n\n### 🔧 Changes\n- merge main",
       "parsed_changes": {
         "feat": {
           "title": "✨ Features",
           "items": [
             "인사 출력 추가"
+          ]
+        },
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "merge main"
           ]
         }
       },
