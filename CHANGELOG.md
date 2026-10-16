@@ -1,7 +1,14 @@
 # Changelog
 
-**Current version:** 0.2.0  
-**Last updated:** 2026-10-16T05:08:21Z  
+**Current version:** 0.2.1  
+**Last updated:** 2026-10-16T06:16:27Z  
+
+---
+
+## [0.2.1] - 2026-10-16
+
+**🔧 Changes**
+- spike closed events
 
 ---
 

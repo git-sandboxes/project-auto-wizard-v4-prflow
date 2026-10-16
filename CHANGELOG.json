@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-16T05:08:21Z",
-    "currentVersion": "0.2.0",
+    "lastUpdated": "2026-10-16T06:16:27Z",
+    "currentVersion": "0.2.1",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 2
+    "totalReleases": 3
   },
   "releases": [
+    {
+      "version": "0.2.1",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": null,
+      "raw_summary": "### 🔧 Changes\n- spike closed events",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "spike closed events"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.2.0",
       "project_types": [
