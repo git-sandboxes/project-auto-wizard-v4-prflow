@@ -1,0 +1,14 @@
+name: SPIKE closed events
+on:
+  pull_request:
+    types: [closed]
+  pull_request_target:
+    types: [closed]
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "event=${{ github.event_name }} merged=${{ github.event.pull_request.merged }} head=${{ github.event.pull_request.head.ref }}"
