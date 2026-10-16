@@ -3,6 +3,6 @@
 ---
 
 <!-- AUTO-VERSION-SECTION: DO NOT EDIT MANUALLY -->
-## Latest Version : v0.0.1
+## Latest Version : v0.1.0
 
 [View full version history](CHANGELOG.md)
